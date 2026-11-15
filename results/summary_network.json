@@ -1,0 +1,107 @@
+{
+  "multilingual_works": 226,
+  "science_share_pct": 34.5,
+  "mean_languages": 2.72,
+  "top_science_works": [
+    [
+      "how man became a giant",
+      7
+    ],
+    [
+      "all about the telescope",
+      6
+    ],
+    [
+      "clocks and watches",
+      5
+    ],
+    [
+      "grishka and the astronaut",
+      5
+    ],
+    [
+      "physics for entertainment",
+      5
+    ],
+    [
+      "forest homes",
+      5
+    ],
+    [
+      "suns wind",
+      5
+    ],
+    [
+      "first aid",
+      4
+    ]
+  ],
+  "top_works": [
+    [
+      "ruffled sparrow",
+      8
+    ],
+    [
+      "how man became a giant",
+      7
+    ],
+    [
+      "all about the telescope",
+      6
+    ],
+    [
+      "horned lamb",
+      6
+    ],
+    [
+      "when daddy was a little boy",
+      6
+    ],
+    [
+      "chuck and gek",
+      5
+    ],
+    [
+      "silver hoof",
+      5
+    ],
+    [
+      "clocks and watches",
+      5
+    ]
+  ],
+  "top_pairs": [
+    [
+      "English\u2013Hindi",
+      65
+    ],
+    [
+      "English\u2013Tamil",
+      55
+    ],
+    [
+      "Bengali\u2013English",
+      53
+    ],
+    [
+      "English\u2013Marathi",
+      33
+    ],
+    [
+      "English\u2013Telugu",
+      32
+    ],
+    [
+      "Hindi\u2013Tamil",
+      26
+    ],
+    [
+      "Bengali\u2013Hindi",
+      23
+    ],
+    [
+      "Bengali\u2013Tamil",
+      21
+    ]
+  ]
+}

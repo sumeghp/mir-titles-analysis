@@ -1,0 +1,140 @@
+{
+  "n_items": 4566,
+  "domain_counts": {
+    "literature": 1817,
+    "science_technical": 1835,
+    "popular_science": 458,
+    "other": 204,
+    "politics_society": 252
+  },
+  "n_languages": 25,
+  "groups": {
+    "English": {
+      "items": 2578,
+      "science": 1426,
+      "pct_science": 55.3
+    },
+    "Indian languages": {
+      "items": 1250,
+      "science": 226,
+      "pct_science": 18.1
+    },
+    "French": {
+      "items": 328,
+      "science": 325,
+      "pct_science": 99.1
+    },
+    "Spanish": {
+      "items": 232,
+      "science": 224,
+      "pct_science": 96.6
+    },
+    "Russian": {
+      "items": 78,
+      "science": 47,
+      "pct_science": 60.3
+    }
+  },
+  "year_coverage": {
+    "with_year": 4266,
+    "1950_1991": 3906,
+    "post_1991": 276
+  },
+  "downloads": {
+    "total": 9191358,
+    "science_pct_items": 50.2,
+    "science_pct_downloads": 87.1,
+    "median_science": 1293,
+    "median_nonscience": 260,
+    "gini_all": 0.753,
+    "top1pct_share": 25.2,
+    "top10pct_share": 64.4,
+    "top20_science": 20
+  },
+  "median_dl_per_year_online": {
+    "science_technical": 371,
+    "popular_science": 200,
+    "literature": 84,
+    "politics_society": 123,
+    "other": 86
+  },
+  "science_downloads_by_group": {
+    "English": {
+      "items": 1426,
+      "median_dl_per_year": 402
+    },
+    "Indian languages": {
+      "items": 226,
+      "median_dl_per_year": 93
+    },
+    "French": {
+      "items": 325,
+      "median_dl_per_year": 391
+    },
+    "Spanish": {
+      "items": 224,
+      "median_dl_per_year": 344
+    },
+    "Russian": {
+      "items": 47,
+      "median_dl_per_year": 160
+    }
+  },
+  "uploaders": {
+    "n": 4,
+    "top_share_pct": 98.2
+  },
+  "upload_shift": {
+    "to_2020": {
+      "items": 610,
+      "pct_science": 57.5,
+      "pct_indian": 4.8
+    },
+    "from_2021": {
+      "items": 3956,
+      "pct_science": 49.1,
+      "pct_indian": 30.9
+    }
+  },
+  "translators": {
+    "items_with_translator": 1287,
+    "distinct": 575
+  },
+  "scan_credits": {
+    "items_credited": 156,
+    "distinct": 15
+  },
+  "indian_science": {
+    "items": 226,
+    "languages": 12,
+    "by_language": {
+      "Hindi": 61,
+      "Tamil": 53,
+      "Bengali": 32,
+      "Marathi": 24,
+      "Telugu": 22,
+      "Kannada": 19,
+      "Gujarati": 5,
+      "Malayalam": 5,
+      "Odia": 2,
+      "Assamese": 1,
+      "Nepali": 1,
+      "Punjabi": 1
+    },
+    "pct_1980s": 69.4,
+    "popular_share_pct": 69.9
+  },
+  "english_science_popular_share_pct": 15.0,
+  "series": {
+    "Physics for Everyone": 15,
+    "Little Mathematics Library": 36,
+    "Science for Everyone": 38,
+    "Men of Russian Science": 5
+  },
+  "problem_books": {
+    "items": 226,
+    "pct_items": 4.9,
+    "pct_downloads": 25.1,
+    "in_top20": 11
+  }
+}

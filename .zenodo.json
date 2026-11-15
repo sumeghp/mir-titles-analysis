@@ -1,0 +1,12 @@
+{
+  "title": "Mir Publishers and Science Popularisation in the Global South: data, code and working paper",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "description": "Data, code and working paper for a digital-humanities study of the Mir Titles collection on the Internet Archive: 4,566 digitised Soviet books in 25 languages. Science is half the collection but 87% of downloads; in Indian languages, 70% of science titles are popular science against 15% in English; Indian-language items rose from 5% to 31% of uploads after 2020.",
+  "creators": [
+    {"name": "P, Sumegh", "affiliation": "Independent researcher", "orcid": "0000-0003-0709-2174"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["Mir Publishers", "Soviet books", "science popularisation", "India", "digital humanities", "Internet Archive", "open educational resources"],
+  "version": "0.1"
+}

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "Mir Publishers and Science Popularisation in the Global South: data, code and working paper"
+version: "0.1"
+date-released: "2026-11-15"
+authors:
+  - family-names: "P"
+    given-names: "Sumegh"
+    affiliation: "Independent researcher"
+    orcid: "https://orcid.org/0000-0003-0709-2174"
+license: CC-BY-4.0
+repository-code: "https://github.com/sumeghp/mir-titles-analysis"
+keywords:
+  - Mir Publishers
+  - Soviet books
+  - science popularisation
+  - India
+  - digital humanities
+  - Internet Archive
